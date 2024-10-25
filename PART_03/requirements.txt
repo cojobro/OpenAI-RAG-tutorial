@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+langchain-community
+openai
+pinecone-client[grpc]
+langchain-openai==0.2.3
+langchain-pinecone==0.2.0
