@@ -3,9 +3,9 @@ Hello and welcome! This is a three-stage tutorial to educate how to effectively 
 
 The three parts of this tutorial include:
 
-1) Building an AI Chatbot
-2) Embedding PDFs into a vector space
-3) Building a simple RAG application
+1) Building an AI Chatbot: https://youtu.be/tdNwrQvXzE0
+2) Embedding PDFs into a vector space: https://youtu.be/ayjnHFDFLQw 
+3) Building a simple RAG application: https://youtu.be/GXenWKu03to
 
 Each of the folders labeled parts 1-3 each have a respective tutorial video to follow along.
 
